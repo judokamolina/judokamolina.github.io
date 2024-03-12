@@ -1,0 +1,106 @@
+.titulo{
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+    
+}
+
+body{
+    background-color: blanchedalmond;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    font-family: cursive;
+}
+
+.titulo2{
+    font-weight:bold ;
+    font-family: cursive;
+}
+
+.descripcion{
+    font-weight: normal;
+}
+
+a{
+    color: rgb(3, 113, 113);
+}
+a:hover{
+    color:rgb(241, 109, 27);
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+#arriba{
+    background-color:blanchedalmond;
+  color: darkorange;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 30px;
+  font-weight: bold;
+  
+}
+
+#arriba:hover{
+    background-color: black;
+    color: darkorange;
+    transform:translate(0px,-10px)
+    
+}
+td{
+    background-color: azure;
+}
+table{
+    border-radius: 10px;
+}
+thead{
+    background-color: rgb(250, 210, 149);
+}
+
+#more_info{
+    text-decoration: none;
+}
+#more_info:hover{
+    transform: scale(10,10);
+    
+    color: red;
+}
+#more_info:end{
+    color: blueviolet;
+}
+
+
+legend{
+    text-align: center;
+    font-family: cursive;
+    border-radius: 10px;
+}
+
+fieldset{
+    background-color: rgb(249, 195, 114);
+}
+
+.box{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.boton{
+    border-radius: 10px;
+    color:black;
+    background-color: rgb(193, 150, 233);
+    border-color: rgb(from  249, 195, 114);
+    font-family:cursive ;
+}
+
+.boton:hover{
+    background-color: rgb(161, 78, 240);
+    color: black;
+}
+
+    
